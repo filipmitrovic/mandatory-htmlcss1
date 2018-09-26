@@ -39,9 +39,13 @@ header a {
 
 header a:hover 
 {
-     color: lightgray; 
-     text-decoration:none; 
-     cursor:pointer;  
+    color: lightgray; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.current {
+    text-decoration: underline;
 }
 
 /* -----------------------header----------------------- */
