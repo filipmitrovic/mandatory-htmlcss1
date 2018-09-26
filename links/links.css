@@ -1,0 +1,7 @@
+main {
+    min-height: calc(100vh - 455px);
+}
+
+main a {
+    display: block;
+}

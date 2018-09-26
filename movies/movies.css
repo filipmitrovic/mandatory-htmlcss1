@@ -1,0 +1,11 @@
+main {
+    min-height: calc(100vh - 455px);
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
